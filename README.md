@@ -1,7 +1,7 @@
 # The Collaboration Token
 ### A Thought Experiment in Moral Infrastructure  
 **Author:** Gabor Farkas (2025)  
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17279231.svg)](https://doi.org/10.5281/zenodo.17279231)
 ---
 
 ### Overview  
