@@ -20,7 +20,7 @@ The project proposes an architecture where verified cooperation becomes a form o
 ### Citation  
 If you wish to cite or share this work:  
 
-> Farkas, G. (2025). *The Collaboration Token: A Thought Experiment in Moral Infrastructure.* Zenodo. DOI: 10.5281/zenodo.17279231
+> Farkas, G. (2025). *The Collaboration Token: A Thought Experiment in Moral Infrastructure.* Zenodo. DOI: > Farkas, G. (2025). *The Collaboration Token: A Thought Experiment in Moral Infrastructure.* Zenodo. [https://doi.org/10.5281/zenodo.17279231](https://doi.org/10.5281/zenodo.17279231)
 
 ---
 
